@@ -72,19 +72,8 @@ h2 {
 .map__wrap iframe {
   width: 100%;
 }
-.box__wrap {
-  display: flex;
-  flex-wrap: wrap;
-}
 .box__wrap + .box__wrap {
   margin-top: 25px;
-}
-.speaker__icon {
-  width: 20%;
-}
-.speaker__profile {
-  width: 78%;
-  margin-left: 2%;
 }
 .speaker__profile h3 {
   margin-bottom: 10px;
